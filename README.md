@@ -7,8 +7,6 @@
 excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 
 
-![Profile views](https://gpvc.arturio.dev/sivavenkat007)  
-
 ## 🙋‍♂️ About Me
 
 - 💻 I’m currently working on [WeatherApp](https://github.com/rajat2502/StandNote)
@@ -54,3 +52,6 @@ excellent organizational skills, a clear understanding of frontend, backend, and
         <img src=https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white alt=teams style="margin-bottom: 5px;" />
     </a>
 </div>
+
+## ❤ Views and Followers
+![Profile views](https://gpvc.arturio.dev/sivavenkat007)
