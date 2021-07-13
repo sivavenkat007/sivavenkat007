@@ -9,6 +9,8 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 ![Profile views](https://gpvc.arturio.dev/sivavenkat007)  
 
+## 🙋‍♂️ About Me
+
 - 💻 I’m currently working on [WeatherApp](https://github.com/rajat2502/StandNote)
 - 👨‍💻 I’m currently learning **Machine Learning** & **Data Scinece**
 - 📁All of my projects are available at **[My Portfolio](https://github.com/sivavenkat007)**
