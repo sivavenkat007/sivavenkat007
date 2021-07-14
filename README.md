@@ -21,7 +21,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
-    <img src="https://i.imgur.com/DxoAcDs.gif" width=50 height=50 alt="" /><br/>free gifs at <a href="http://gifgifs.com/">gifgifs</a>
+    
     <a href="https://www.python.org" target="_blank"> <img src="https://github.com/sivavenkat007/sivavenkat007/blob/master/python.gif"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
