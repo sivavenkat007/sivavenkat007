@@ -1,16 +1,14 @@
-<!-- <h1 align="center">Hi 👋, I'm Siva Patta</h1> -->
+<!-- <h1 align="center">Hi 👋, I'm <b>SIVA PATTA</b></h1> -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 
-    I'm <b>SIVA PATTA</b> </h1>
-<p align="center">A passinonate <a href="">full stack web developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
+<h1 align="center">Hello, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!' <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<p align="center">I'm <b>SIVA PATTA</b>. A passinonate <a href="https://sivavenkat007.github.io/resume/"  target="_blank" rel="noopener noreferrer"><b>Full Stack Developer</b> 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
 excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 
+## 🙋‍♂️ About Me
 
-![Profile views](https://gpvc.arturio.dev/sivavenkat007)  
-
-- 💻 I’m currently working on [WeatherApp](https://github.com/rajat2502/StandNote)
+- 💻 I’m currently working on [WeatherApp](https://github.com/sivavenkat007/weatherApp)
 - 👨‍💻 I’m currently learning **Machine Learning** & **Data Scinece**
 - 📁All of my projects are available at **[My Portfolio](https://github.com/sivavenkat007)**
 - 💬 Ask me about **Django, Js & Open Source**
@@ -18,11 +16,12 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 - ⚡ Fun fact: I LOVE **Travel🧳 & Games🎯**
 
 ### **Language and Tools :**
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://github.com/sivavenkat007/sivavenkat007/blob/master/python.gif" width="48px" height="48px" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -34,8 +33,8 @@ excellent organizational skills, a clear understanding of frontend, backend, and
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
 </p>
 
+## Connect with me
 
-## Connect with me  
 <div align="center">
     <a href="https://github.com/sivavenkat007" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -53,3 +52,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
         <img src=https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white alt=teams style="margin-bottom: 5px;" />
     </a>
 </div>
+
+## ❤ Views and Followers
+
+![Profile views](https://gpvc.arturio.dev/sivavenkat007)
