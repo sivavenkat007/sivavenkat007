@@ -10,9 +10,6 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 <<<<<<< HEAD
 - 💻 I’m currently working on **[WeatherApp](https://github.com/sivavenkat007/weatherApp)**
-=======
-- 💻 I’m currently working on [Blogs](https://github.com/sivavenkat007/Blogs)
->>>>>>> 2a0961afc2f114a6f479c6d8e4212667c20a733a
 - 👨‍💻 I’m currently learning **Machine Learning** & **Data Scinece**
 - 📁All of my projects are available at **[My Portfolio](https://github.com/sivavenkat007?tab=repositories)**
 - 💬 Ask me about **Django, Js & Web Development**
