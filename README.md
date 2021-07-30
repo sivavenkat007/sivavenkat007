@@ -3,15 +3,15 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">Hello, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!' <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-<p align="center">I'm <b>SIVA PATTA</b>. A passinonate <a href="https://sivavenkat007.github.io/resume/"  target="_blank" rel="noopener noreferrer"><b>Full Stack Developer</b> 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
+<p align="center">I'm <b>SIVA PATTA</b>. A passinonate <a href="https://sivavenkat007.github.io/Portfolio/"  target="_blank" rel="noopener noreferrer"><b>Full Stack Developer</b> 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
 excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 
 ## 🙋‍♂️ About Me
 
 - 💻 I’m currently working on **[WeatherApp](https://github.com/sivavenkat007/weatherApp)**
 - 👨‍💻 I’m currently learning **Machine Learning** & **Data Scinece**
-- 📁All of my projects are available at **[My Portfolio](https://github.com/sivavenkat007)**
-- 💬 Ask me about **Django, Js & Open Source**
+- 📁All of my projects are available at **[My Portfolio](https://github.com/sivavenkat007?tab=repositories)**
+- 💬 Ask me about **Django, Js & Web Development**
 - 📫 How to reach me **sivavenkat7474@gmail.com**
 - ⚡ Fun fact: I LOVE **Travel🧳 & Games🎯**
 
@@ -22,9 +22,9 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://github.com/sivavenkat007/sivavenkat007/blob/master/python.gif" width="48px" height="48px" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="/js1.gif"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
