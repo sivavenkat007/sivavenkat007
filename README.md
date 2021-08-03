@@ -14,7 +14,7 @@
 - 📫 How to reach me **sivavenkat7474@gmail.com**
 - ⚡ Fun fact: I LOVE **Travel 🧳 & Games 🎯**
 
-### **Language and Tools :**g
+### Language and Tools :
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
