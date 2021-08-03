@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 💻 I’m currently working on **[WeatherApp](https://github.com/sivavenkat007/weatherApp)**
+- 💻 I’m currently working on **[Blogs](https://github.com/sivavenkat007/Blogs)**
 - 👨‍💻 I’m currently learning **Machine Learning** & **Data Scinece**
 - 📁All of my projects are available at **[My Portfolio](https://github.com/sivavenkat007?tab=repositories)**
 - 💬 Ask me about **Django, Js & Web Development**
